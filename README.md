@@ -24,9 +24,6 @@
 - 🧑‍🎓 **Mentored** junior developers and conducted modern tools and best practices sessions
 - 🥇 CGPA: **9.45** (B.Tech, Sharnbasva University, 2019–2023)
 - 🏆 Awarded **Campus to Corporate Certification** for software design, development, and engineering
-- 💡 Implemented role-based authentication and real-time notifications in patient medication tracking applications
-- 🌱 Developed & delivered user-centric UI components and full-stack web solutions in Agile teams
-- ✔️ Delivered 30+ code reviews, 50+ unit tests, and fixed 30+ critical code issues[web:17][file:2]
 
 ---
 
