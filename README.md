@@ -90,7 +90,7 @@
   <a href="https://bhagyashree-ph-portfolio-url.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="assets/Bhagyashree_Java_Full_stack_developer.pdf">
+  <a href="assets/Bhagyashree_Java_Full_Stack_developer.pdf">
     <img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
 </p>
