@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0066&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bhagyashree+%F0%9F%91%8B;Java+Full-Stack+Developer;ReactJS+%7C+Spring+Boot+%7C+Mongo+DB;Building+Scalable+Apps+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FF0066&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Bhagyashree+%F0%9F%91%8B;Building+Scalable+Apps+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -87,10 +87,10 @@
   <a href="https://www.linkedin.com/in/bhagyashree-ph-a935a121a/">
     <img src="https://img.shields.io/badge/LinkedIn-Bhagyashree-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://bhagyashree-ph-portfolio-url.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://bhagyashree-ph.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="assets/Bhagyashree_Java_Full_Stack_developer.pdf">
+  <a href="assets/Bhagyashree_Java_Full_Stack_developer.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
   </a>
 </p>
